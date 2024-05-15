@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9729014-c302-4e35-a070-a77e4ee8b8a7" name="Changes" comment="Complited TopFood">
-      <change afterPath="$PROJECT_DIR$/src/org/learning/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="f9729014-c302-4e35-a070-a77e4ee8b8a7" name="Changes" comment="Complited FizzBuzz">
+      <change afterPath="$PROJECT_DIR$/src/org/learning/MetGala.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715778307178</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complited FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1715778737439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715778737439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +147,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Complited CalcoloBiglietto" />
     <MESSAGE value="Complited TopFood" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complited TopFood" />
+    <MESSAGE value="Complited FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complited FizzBuzz" />
   </component>
 </project>
