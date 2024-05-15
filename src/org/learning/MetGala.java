@@ -17,5 +17,6 @@ public class MetGala {
                 System.out.println("Non sei nella lista, non puoi entrare");
             }
         }
+        scanner.close();
     }
 }
