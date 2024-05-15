@@ -27,5 +27,6 @@ public class CalcoloBiglietto {
             System.out.println("Per lei è stato riservato uno sconto del 40%, il prezzo finale è di: " + totalPrice + "€");
         }
 
+        scanner.close();
     }
 }
