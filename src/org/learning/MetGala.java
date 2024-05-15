@@ -10,7 +10,7 @@ public class MetGala {
         System.out.println("Dimmi il tuo nome per sapere se sei nella lista degli invitati");
         String name = scanner.nextLine();
         for (int i = 0; i < User.length; i++) {
-            if(User[i].equals(name)){
+            if(User[i].equalsIgnoreCase(name)){
                 System.out.println("Sei nella lista, puoi entrare");
                 break;
             }else if(i == User.length-1){
